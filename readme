@@ -2,4 +2,4 @@ Crated a simple web page which can be accessed at below location
 
 http://13.40.217.244:9008/webapp/
 
-The pipeline code for terraform resource creation and CI/CD pipeline has been added under the directory pipeline.
+The pipeline code for terraform resource creation and CI/CD pipeline has been added under the directory pipeline codes.
